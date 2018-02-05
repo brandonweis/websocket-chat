@@ -1,0 +1,11 @@
+{
+  "name": "websocket-chat",
+  "version": "1.0.0",
+  "description": "just another app that use websocket",
+  "main": "index.js",
+  "author": "brandon",
+  "license": "MIT",
+  "devDependencies": {
+    "websocket": "^1.0.25"
+  }
+}
